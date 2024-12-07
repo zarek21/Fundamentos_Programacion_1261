@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P027_Suma_de_N_Numeros_Naturales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{868EBF03-B85D-4F72-8A3C-17C77CC31DD9}|P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.vcxproj|C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{868EBF03-B85D-4F72-8A3C-17C77CC31DD9}|P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.vcxproj|solutionrelative:P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P027_Suma_de_N_Numeros_Naturales.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.cpp",
+              "RelativeDocumentMoniker": "P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.cpp",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.cpp",
+              "RelativeToolTip": "P027_Suma_de_N_Numeros_Naturales\\P027_Suma_de_N_Numeros_Naturales.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T17:43:42.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

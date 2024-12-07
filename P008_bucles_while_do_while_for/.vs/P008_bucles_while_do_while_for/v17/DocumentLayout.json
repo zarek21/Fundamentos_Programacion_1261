@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P008_bucles_while_do_while_for\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43FA7071-89DA-43A2-8574-057F1C55458D}|P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.vcxproj|C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43FA7071-89DA-43A2-8574-057F1C55458D}|P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.vcxproj|solutionrelative:P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P008_bucles_while_do_while_for.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.cpp",
+              "RelativeDocumentMoniker": "P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.cpp",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.cpp",
+              "RelativeToolTip": "P008_bucles_while_do_while_for\\P008_bucles_while_do_while_for.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T17:31:48.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
