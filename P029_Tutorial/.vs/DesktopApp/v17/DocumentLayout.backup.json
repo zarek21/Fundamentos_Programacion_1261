@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\DesktopApp\\",
+  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\Fundamentos_Programacion_1261\\P029_Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ED940C2-C582-4BBE-8E57-1B516AFB1A6E}|DesktopApp\\DesktopApp.vcxproj|C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\DesktopApp\\DesktopApp\\HelloWindowsDesktop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1ED940C2-C582-4BBE-8E57-1B516AFB1A6E}|DesktopApp\\DesktopApp.vcxproj|C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\Fundamentos_Programacion_1261\\P029_Tutorial\\DesktopApp\\HelloWindowsDesktop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1ED940C2-C582-4BBE-8E57-1B516AFB1A6E}|DesktopApp\\DesktopApp.vcxproj|solutionrelative:DesktopApp\\HelloWindowsDesktop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HelloWindowsDesktop.cpp",
-              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\DesktopApp\\DesktopApp\\HelloWindowsDesktop.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\Fundamentos_Programacion_1261\\P029_Tutorial\\DesktopApp\\HelloWindowsDesktop.cpp",
               "RelativeDocumentMoniker": "DesktopApp\\HelloWindowsDesktop.cpp",
-              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\DesktopApp\\DesktopApp\\HelloWindowsDesktop.cpp",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Fundamentos_Programacion_zap1261\\Fundamentos_Programacion_1261\\P029_Tutorial\\DesktopApp\\HelloWindowsDesktop.cpp",
               "RelativeToolTip": "DesktopApp\\HelloWindowsDesktop.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

@@ -1,2 +1,2 @@
 ﻿  MathClient.cpp
-  MathClient.vcxproj -> C:\Users\jorge\OneDrive\Escritorio\Fundamentos_Programacion_zap1261\StaticMath\x64\Debug\MathClient.exe
+C:\Users\jorge\OneDrive\Escritorio\Fundamentos_Programacion_zap1261\Fundamentos_Programacion_1261\P028_Tutorial\MathClient\MathClient.cpp(5,10): error C1083: No se puede abrir el archivo incluir: 'MathLibrary.h': No such file or directory
